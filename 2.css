@@ -1,0 +1,28 @@
+.naveen{
+   width: 350px;
+   height:250px;
+    margin-top:150px;
+    margin-left:500px;
+    background:url(pic1.jpg);
+    background-size: cover;
+    background-position:center ;
+    text-align: center;
+    border-color: blue;
+    padding: 10px;
+    border-radius: 20px;
+    padding-bottom: 10px;
+}.naveen1{
+    border-radius: 15px;
+    border-color:dodgerblue;
+    cursor: pointer;
+}body{
+    background:url(virat.jpg);
+    background-position: center;
+    background-size: cover;
+}.naveen2{
+ text-align:center;
+ color:white;
+ margin-top: 70px;
+ text-transform: capitalize;
+ 
+}

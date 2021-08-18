@@ -1,0 +1,40 @@
+.calsi{
+    margin-left: 550px;
+    margin-top: 100px;
+    width:190px;
+    height:280px;
+    background:url(pic1.jpg);
+    size:cover;
+    text-align:center;
+    border-color: brown;border-radius: 20px;
+    
+
+   
+}body{
+    background:url(pic1.jpg) ;
+    background-position: center;
+    background-size: cover;
+    border-radius: 50px;
+}.naveen{
+    border-radius:20px;
+    width:40px;
+    height:30px;
+    border:royalblue;
+}.naveen2{
+    border-radius:20px;
+    border:royalblue;
+margin-top: 8px;
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    margin-top:100px;
+}#zero{
+    width:80px;
+    height:30px;
+    border-radius:30px ;
+    border:royalblue;
+}
+
+    
+}
